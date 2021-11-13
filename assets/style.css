@@ -221,4 +221,30 @@ footer.second p {
     .content h1 {
         font-size: 180%;
     }
+    p {
+        font-size: 120%;
+    }
+    h2 {
+        font-size: 160%;
+    }
+    .left-col {
+        width: 96%;
+        margin: 0 0 3% 0;
+        padding: 0 2%;
+    }
+    .sidebar {
+        width: 96%;
+        margin: 0 auto;
+    }
+    img {
+        padding: 2%;
+    }
+    .one-third-port {
+        width: 96%;
+        margin: 0 auto;
+        padding: 0;
+    }
+    .break {
+        display: block;
+    }
 }
