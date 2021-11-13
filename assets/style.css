@@ -34,7 +34,7 @@ p {
     height: 100%;
     width: 100%;
     margin: auto;
-    background: url(/assets/pic/me.jpg) no-repeat 50% 50%;
+    background: url(/assets/pic/6.jpg) no-repeat 50% 50%;
     background-size: cover;
     display: table;
     top: 0;
@@ -168,8 +168,8 @@ nav:hover ul {
 }
 
 .parallax {
-    background: url(/assets/pic/para1.jpg) repeat fixed 0%;
-    opacity: .10;
+    background: url(/assets/pic/para.jpg) repeat fixed 0%;
+    opacity: .9;
 }
 
 .parallax-inner {
